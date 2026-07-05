@@ -35,20 +35,20 @@
 <details>
   <summary><b>Посмотреть UML-диаграмму вариантов использования (Use Case)</b></summary>
   
-  ![Use Case Diagram](diagrams/diagram_2_1_use_case.png)
+  ![Use Case Diagram](diagrams/UML-диаграмма вариантов использования ИС АРБ.png)
   *Модель разграничения прав доступа между Читателем и Библиотекарем.*
 </details>
 
 <details>
   <summary><b>Посмотреть диаграмму компонентной архитектуры</b></summary>
   
-  ![Architecture](diagrams/diagram_3_1_architecture.png)
+  ![Architecture](diagrams/Компонентная архитектура системы.png)
   *Взаимодействие слоев представления, бизнес-логики и базы данных.*
 </details>
 
 <details>
   <summary><b>Посмотреть блок-схему бизнес-процесса возврата</b></summary>
   
-  ![Return Process](diagrams/diagram_p1_2_return_process.png)
+  ![Return Process](diagrams/Блок-схема процесса возврата книги и расчета штрафа.png)
   *Алгоритм расчета дельты времени и применения динамической стратегии начисления пени.*
 </details>
